@@ -44,6 +44,7 @@ After training the model for around 50 epochs, the following results were achiev
 - Validation Accuracy: 78%
 - Training Loss: 0.5
 - Validation Loss: 0.7
+
 The model showed significant improvement in accuracy and reduced overfitting compared to earlier versions. Class rebalancing using data augmentation played a crucial role in achieving these results.
 
 ## Conclusions
