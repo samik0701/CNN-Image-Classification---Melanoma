@@ -40,10 +40,10 @@ Our goal is to leverage this diverse dataset to build an accurate and reliable m
 ## Result
 After training the model for around 50 epochs, the following results were achieved:
 
-Training Accuracy: 79%
-Validation Accuracy: 78%
-Training Loss: 0.5
-Validation Loss: 0.7
+- Training Accuracy: 79%
+- Validation Accuracy: 78%
+- Training Loss: 0.5
+- Validation Loss: 0.7
 The model showed significant improvement in accuracy and reduced overfitting compared to earlier versions. Class rebalancing using data augmentation played a crucial role in achieving these results.
 
 ## Conclusions
